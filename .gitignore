@@ -1,0 +1,9 @@
+# Ignore the Obsidian configuration folder (User preferences, workspace layout)
+.obsidian/
+
+# Ignore the Obsidian trash folder
+.trash/
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
