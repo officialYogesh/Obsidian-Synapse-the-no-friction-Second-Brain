@@ -67,7 +67,10 @@ Once a week (e.g., Sunday), look at your **Inbox**.
 ## 5. The Golden Rules
 
 ### 🏷️ Tags vs. Links
-*   **Tags (`#status/seed`)**: Use for **State**. "This is unfinished."
+*   **Tags (`#status/*`)**: Use for **State**.
+    *   `#status/seed`: Unfinished / New Idea.
+    *   `#status/processing`: Reading / In Progress.
+    *   `#status/evergreen`: Complete / Permanent.
 *   **Links (`[[Topic]]`)**: Use for **Content**. "This is about Psychology."
 *   *Never tag a topic.*
 

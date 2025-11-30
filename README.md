@@ -67,6 +67,25 @@ Never leave a note alone.
 
 ---
 
+## 🏷️ The Tagging System
+
+While this system prioritizes **Links over Tags**, a minimal set of utility tags is included in the templates to help manage note status and types.
+
+### Status Tags (The Lifecycle)
+Track the maturity of your notes.
+*   `#status/seed` 🌱 : **New Idea.** A rough draft or a fleeting thought. Needs work.
+*   `#status/processing` ⚙️ : **Reading.** A source (book/article) you are currently taking notes on.
+*   `#status/evergreen` 🌲 : **Complete.** A polished atomic note. Reliable knowledge you can reference forever.
+
+### Type Tags (The Classification)
+Automatically applied by templates to categorize content type.
+*   `#type/daily` : Daily logs and journals.
+*   `#type/idea` : Atomic notes and concepts.
+*   `#type/source` : Books, articles, videos, and podcasts.
+*   `#type/moc` : Maps of Content (Indexes).
+
+---
+
 ## 📥 Installation
 
 1.  **Download** this repository as a ZIP file (or clone it).
@@ -87,3 +106,9 @@ Never leave a note alone.
 ## 🔍 SEO & Discoverability
 *Keywords for people searching for this system:*
 Obsidian Template, Zettelkasten Starter Kit, Second Brain Workflow, Personal Knowledge Management (PKM), Tiago Forte PARA Method Alternative, Niklas Luhmann, Atomic Notes, Slip-box, Roam Research Alternative, Notion Alternative, Productivity System, Minimalist Note Taking, Markdown, Knowledge Graph.
+
+---
+
+## ⭐ Support
+
+If you found this system helpful, please **give this repository a Star ⭐️** on GitHub! It helps others find this template and build their own Second Brain.
