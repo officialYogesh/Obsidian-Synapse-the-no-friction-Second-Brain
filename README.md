@@ -8,7 +8,8 @@
 
 ## 📸 The Synapse Graph
 
-*(Paste your screenshot of the graph view here)*
+<img width="1632" height="1023" alt="image" src="https://github.com/user-attachments/assets/ac636ef4-8098-4c43-9d04-f67953af2583" />
+
 
 > **"The mind is for having ideas, not holding them."**
 
